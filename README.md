@@ -1,10 +1,10 @@
-# 🚗 Used Car Resale Price Prediction using Machine Learning
+# Used Car Resale Price Prediction using Machine Learning
 
 An end-to-end machine learning project that predicts the resale price of used cars by applying data preprocessing, feature engineering, exploratory data analysis, and regression models. The project evaluates multiple machine learning algorithms and identifies the best-performing model through hyperparameter tuning.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Pricing a used car accurately is challenging due to numerous influencing factors such as vehicle age, mileage, fuel type, transmission, engine specifications, and location.
 
@@ -23,7 +23,7 @@ The workflow follows a complete machine learning pipeline:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains information about used vehicles, including:
 
@@ -43,7 +43,7 @@ The dataset contains information about used vehicles, including:
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 - Python
 - Pandas
@@ -55,7 +55,7 @@ The dataset contains information about used vehicles, including:
 
 ---
 
-# 📊 Exploratory Data Analysis
+# Exploratory Data Analysis
 
 The dataset was explored to understand relationships between vehicle characteristics and resale price.
 
@@ -69,7 +69,7 @@ EDA included:
 
 ---
 
-# 🧹 Data Preprocessing
+# Data Preprocessing
 
 Several preprocessing techniques were applied before model training.
 
@@ -90,7 +90,7 @@ Several preprocessing techniques were applied before model training.
 
 ---
 
-# 🤖 Machine Learning Models
+# Machine Learning Models
 
 The following regression models were trained and compared.
 
@@ -103,7 +103,7 @@ The following regression models were trained and compared.
 
 ---
 
-# ⚙ Hyperparameter Tuning
+# Hyperparameter Tuning
 
 GridSearchCV was used to optimize model parameters for improved performance.
 
@@ -116,7 +116,7 @@ Examples of tuned parameters include:
 
 ---
 
-# 📈 Model Evaluation
+# Model Evaluation
 
 The models were evaluated using:
 
@@ -135,7 +135,7 @@ Random Forest produced the highest predictive performance among the evaluated mo
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 Used-Car-Price-Prediction/
@@ -148,7 +148,7 @@ Used-Car-Price-Prediction/
 
 ---
 
-# 🚀 How to Run
+# How to Run
 
 ## Clone the repository
 
@@ -182,7 +182,7 @@ Car_resale_price_prediction.ipynb
 
 ---
 
-# 📌 Future Improvements
+# Future Improvements
 
 - Implement a Scikit-learn Pipeline for streamlined preprocessing and model training.
 - Perform feature importance analysis using SHAP.
@@ -192,7 +192,7 @@ Car_resale_price_prediction.ipynb
 
 ---
 
-# 💡 Key Learning Outcomes
+# Key Learning Outcomes
 
 This project demonstrates practical experience in:
 
@@ -206,13 +206,13 @@ This project demonstrates practical experience in:
 
 ---
 
-# 📜 License
+# License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👤 Author
+## Author
 
 **Balagopan G**
 
